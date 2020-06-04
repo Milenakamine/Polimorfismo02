@@ -1,0 +1,13 @@
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Polimorfismo02\Polimorfismo02\bin\Debug\netcoreapp3.1\Polimorfismo02.exe
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Polimorfismo02\Polimorfismo02\bin\Debug\netcoreapp3.1\Polimorfismo02.deps.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Polimorfismo02\Polimorfismo02\bin\Debug\netcoreapp3.1\Polimorfismo02.runtimeconfig.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Polimorfismo02\Polimorfismo02\bin\Debug\netcoreapp3.1\Polimorfismo02.runtimeconfig.dev.json
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Polimorfismo02\Polimorfismo02\bin\Debug\netcoreapp3.1\Polimorfismo02.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Polimorfismo02\Polimorfismo02\bin\Debug\netcoreapp3.1\Polimorfismo02.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Polimorfismo02\Polimorfismo02\obj\Debug\netcoreapp3.1\Polimorfismo02.csprojAssemblyReference.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Polimorfismo02\Polimorfismo02\obj\Debug\netcoreapp3.1\Polimorfismo02.csproj.CoreCompileInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Polimorfismo02\Polimorfismo02\obj\Debug\netcoreapp3.1\Polimorfismo02.AssemblyInfoInputs.cache
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Polimorfismo02\Polimorfismo02\obj\Debug\netcoreapp3.1\Polimorfismo02.AssemblyInfo.cs
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Polimorfismo02\Polimorfismo02\obj\Debug\netcoreapp3.1\Polimorfismo02.dll
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Polimorfismo02\Polimorfismo02\obj\Debug\netcoreapp3.1\Polimorfismo02.pdb
+C:\Users\milen\OneDrive\Área de Trabalho\Estudos do SENAI\Projetos\Polimorfismo02\Polimorfismo02\obj\Debug\netcoreapp3.1\Polimorfismo02.genruntimeconfig.cache
